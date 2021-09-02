@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lloyd
-- 👀 I’m interested in Programming, Gaming, Anime and many other stuff!
+- 👀 I’m interested in programming, gaming, anime and many other stuff!
 - 🌱 I’m currently learning React, Firebase and Python.
 - 💞️ I’m looking to collaborate on awesome people!
 
